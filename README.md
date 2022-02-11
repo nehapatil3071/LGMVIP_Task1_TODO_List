@@ -1,5 +1,8 @@
 # LGMVIP_Task1_TODO_List
-#Lets Grow More VIP
+
+## Lets Grow More VIP
+
+### Create a TO DO list webapp
 
 
 -TO DO List with HTML, CSS, JAVASCRIPT
